@@ -72,7 +72,8 @@ This Tool can be used in:
 Example:
 
 python file identifier.py
-<img width="922" height="242" alt="image" src="https://github.com/user-attachments/assets/cb2faf83-befd-45ed-87df-213ee5e89c86" />
+
+<img width="820" height="370" alt="image" src="https://github.com/user-attachments/assets/1567d405-3608-44bc-9421-93fb62ed27f4" />
 
 If a file extension does not match its real type, the tool will display:
 - WARNING: Extension does NOT match real file type.
