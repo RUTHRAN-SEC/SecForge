@@ -77,9 +77,8 @@ HELLO
 
 ## Structure
 Caesar Cipher Encryptor/
-│ 
-├── caesar_encrypt.py
-└── README.md
+- caesar_encrypt.py
+- README.md
 
 ## Future Improvements
 
