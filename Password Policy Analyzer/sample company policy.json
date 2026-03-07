@@ -1,3 +1,5 @@
+This is company password policy
+
 {
   "min_length": 6,
   "require_uppercase": true,
